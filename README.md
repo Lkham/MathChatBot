@@ -10,3 +10,8 @@ By harnessing OpenAI's GPT model, our chatbot will excel at comprehending comple
 
 # Chatbot DEMO
 ![](Demo/Demo.gif)
+
+
+As demonstrated in the demo above, when we test the same mathematical question in ChatGPT and WolframAlpha separately, they function differently. ChatGPT offers an explanation but doesn't generate a graph, while WolframAlpha struggles to interpret the user input unless specifically asked to plot the graph. In that case, it provides the exact same result as our bot.
+
+This is because WolframAlpha focuses on computational knowledge, while GPT models are designed to handle a wide range of natural language tasks. Their purposes differ, but when combined, our bot can understand complex user queries, generate relevant responses, and accurately solve advanced mathematical problems.
