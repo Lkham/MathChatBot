@@ -1,11 +1,11 @@
 # Educational Math Chatbot with OpenAI and WolframAlpha
-This project aims to create a math chatbot powered by OpenAI's GPT model, integrated with Dialogflow and WolframAlpha's computational engine. 
+This project seeks to develop an intelligent math chatbot, combining the power of OpenAI's GPT model with Dialogflow and WolframAlpha's computational engine.
 
-OpenAI's GPT model is an artificial intelligence language model with the ability to understand and generate human-like text. One example of OpenAI's GPT model is ChatGPT. 
+OpenAI's GPT is a cutting-edge artificial intelligence language model capable of understanding and generating human-like text. A well-known example of this technology is ChatGPT, which showcases GPT's ability to engage in sophisticated conversations and respond to a wide variety of queries.
 
-Wolfram Alpha is a computational knowledge engine designed to answer factual queries and perform computations based on a wide range of topics.
+WolframAlpha, on the other hand, is a renowned computational knowledge engine designed to answer factual questions and perform intricate computations across various domains.
 
-Our chatbot will be powered by OpenAI's GPT model, enabling the chatbot to understand complex queries and generate human-like responses. Integrating it with the WolframAlpha will allow the chatbot to accurately solve complex mathematical problems.
+By harnessing OpenAI's GPT model, our chatbot will excel at comprehending complex user queries and delivering natural, human-like responses. Integrating WolframAlpha's computational capabilities will empower the chatbot to solve advanced mathematical problems with precision, making it a robust tool for users seeking both conversational interaction and accurate solutions.
 
 
 # Chatbot DEMO
