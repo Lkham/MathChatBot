@@ -8,7 +8,7 @@ WolframAlpha, on the other hand, is a powerful computational knowledge engine de
 By harnessing OpenAI's GPT model, our chatbot is able to understand complex user queries and deliver natural, human-like responses. Integrating WolframAlpha's computational capabilities empowers the chatbot to solve advanced mathematical problems with precision, making it a robust tool for users seeking both conversational interaction and accurate solutions.
 
 
-# Chatbot DEMO
+## Chatbot DEMO
 ![](Demo/Demo.gif)
 
 
