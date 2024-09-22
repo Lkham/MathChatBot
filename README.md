@@ -6,4 +6,5 @@ OpenAI's GPT model is an artificial intelligence language model with the ability
 Wolfram Alpha is a computational knowledge engine designed to answer factual queries and perform computations based on a wide range of topics.
 
 Our chatbot will be powered by OpenAI's GPT model, enabling the chatbot to understand complex queries and generate human-like responses. Integrating it with the WolframAlpha will allow the chatbot to accurately solve complex mathematical problems.
-![](https://github.com/Lkham/MathChatBot/tree/main/Demo/Demo.gif)
+
+![](Demo/Demo.gif)
