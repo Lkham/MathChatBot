@@ -7,4 +7,6 @@ Wolfram Alpha is a computational knowledge engine designed to answer factual que
 
 Our chatbot will be powered by OpenAI's GPT model, enabling the chatbot to understand complex queries and generate human-like responses. Integrating it with the WolframAlpha will allow the chatbot to accurately solve complex mathematical problems.
 
+
+# Chatbot DEMO
 ![](Demo/Demo.gif)
